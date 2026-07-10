@@ -8,7 +8,7 @@
 
 <p>
   <img src="https://img.shields.io/badge/Cajamarca%2C_Perú-🇵🇪-black?style=flat-square"/>
-  <img src="https://img.shields.io/badge/UPN-Sistemas_Computacionales-black?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Sistemas_Computacionales-black?style=flat-square"/>
 </p>
 
 <p>
