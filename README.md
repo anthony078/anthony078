@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=2800&pause=1200&color=B8FF00&center=true&vCenter=true&width=550&lines=Building+web+apps;Designing+enterprise+networks;Creating+games+in+Unity" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=20&duration=2800&pause=1200&color=B8FF00&center=true&vCenter=true&width=550&lines=Dise%C3%B1ando+redes+empresariales;Construyendo+aplicaciones+web;Creando+videojuegos+en+Unity;Aprendiendo+ciberseguridad" />
 
 <p>
   <img src="https://img.shields.io/badge/Cajamarca%2C_Perú-🇵🇪-black?style=flat-square"/>
@@ -23,14 +23,38 @@
 
 ## `01` Sobre mí
 
-```
+<table>
+<tr>
+<td width="60%" valign="top">
+
+```js
 const anthony = {
-  rol: "Estudiante de Ingeniería de Sistemas Computacionales",
-  enfoque: ["Desarrollo Web", "Redes Empresariales", "Videojuegos"],
-  aprendiendo: ["React", "Node.js", "Ciberseguridad"],
-  filosofia: "La tecnología es el puente entre las ideas y la innovación"
+  🎓 rol: "Ingeniería de Sistemas Computacionales",
+  📍 ubicacion: "Cajamarca, Perú",
+  🧭 enfoque: ["Dev Web", "Redes Empresariales", "Videojuegos"],
+  📚 aprendiendo: ["React", "Node.js", "Ciberseguridad"],
+  🌐 proyectoActual: "Red empresarial AXIOMMOTORS
+                      (VLANs · OSPF · HSRP · ACLs · Port Security)",
+  💡 filosofia: "La tecnología es el puente
+                 entre las ideas y la innovación"
 };
 ```
+
+</td>
+<td width="40%" valign="top" align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+![](https://img.shields.io/badge/Estado-Cursando_último_ciclo-B8FF00?style=flat-square&labelColor=0F0F0F)
+![](https://img.shields.io/badge/Ahora_mismo-Terminando_proyecto_de_redes-B8FF00?style=flat-square&labelColor=0F0F0F)
+
+</div>
 
 <br/>
 
@@ -59,7 +83,8 @@ const anthony = {
 </tr>
 </table>
 
-**Redes** &nbsp; `Packet Tracer` `VLAN` `OSPF` `ACL` `DHCP` `HSRP` `EtherChannel` `STP`
+**Redes** &nbsp; `Packet Tracer` `VLAN` `OSPF` `ACL` `DHCP` `HSRP` `EtherChannel` `STP` `Port Security` `WLAN`
+
 **Robótica** &nbsp; `Arduino` `ESP32` `Sensores` `Automatización`
 
 <br/>
@@ -72,16 +97,14 @@ const anthony = {
 
 ### 🔥 KicksOnFire
 Plataforma web con probador virtual de ropa deportiva.
-
 `Bootstrap 5` `JavaScript` `Responsive`
 
 </td>
 <td width="50%">
 
-### 🌍 AXIOMMOTORS Network
-Red empresarial completa: VLANs, OSPF, HSRP, EtherChannel, STP, ACLs y Port Security.
-
-`Packet Tracer` `OSPF` `ACL`
+### 🌐 AXIOMMOTORS Network
+Diseño de red empresarial completa para una compañía ficticia: 5 VLANs departamentales + VLAN de gestión, enrutamiento inter-VLAN con Catalyst 3650, OSPF, HSRP, EtherChannel, STP, WLAN, ACLs y Port Security (sticky MAC + violation restrict).
+`Packet Tracer` `OSPF` `ACL` `Port Security`
 
 </td>
 </tr>
@@ -90,7 +113,6 @@ Red empresarial completa: VLANs, OSPF, HSRP, EtherChannel, STP, ACLs y Port Secu
 
 ### 🎮 Game Dev
 Mecánicas, HUD, IA básica y niveles jugables en Unity.
-
 `Unity` `C#`
 
 </td>
@@ -98,7 +120,6 @@ Mecánicas, HUD, IA básica y niveles jugables en Unity.
 
 ### 🤖 Robótica
 Automatización con sensores y microcontroladores.
-
 `Arduino` `ESP32`
 
 </td>
@@ -110,8 +131,10 @@ Automatización con sensores y microcontroladores.
 ## `04` Estadísticas
 
 <div align="center">
+
 <img height="160" src="https://github-readme-stats.vercel.app/api?username=anthony078&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthony078&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 <div align="center">
