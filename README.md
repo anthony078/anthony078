@@ -33,7 +33,7 @@ const anthony = {
   📍 ubicacion: "Cajamarca, Perú",
   🧭 enfoque: ["Dev Web", "Redes Empresariales", "Videojuegos"],
   📚 aprendiendo: ["React", "Node.js", "Ciberseguridad"],
-  🌐 proyectoActual: "Red empresarial AXIOMMOTORS
+  🌐 proyectoActual: "Red empresarial
                       (VLANs · OSPF · HSRP · ACLs · Port Security)",
   💡 filosofia: "La tecnología es el puente
                  entre las ideas y la innovación"
@@ -43,7 +43,7 @@ const anthony = {
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.gif" width="100%"/>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="100%"/>
 
 </td>
 </tr>
@@ -51,8 +51,10 @@ const anthony = {
 
 <div align="center">
 
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="22"/>&nbsp;
 ![](https://img.shields.io/badge/Estado-Cursando_último_ciclo-B8FF00?style=flat-square&labelColor=0F0F0F)
 ![](https://img.shields.io/badge/Ahora_mismo-Terminando_proyecto_de_redes-B8FF00?style=flat-square&labelColor=0F0F0F)
+&nbsp;<img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="22"/>
 
 </div>
 
