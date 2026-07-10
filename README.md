@@ -236,3 +236,11 @@ Proyectos de automatización utilizando sensores y microcontroladores para resol
 🚀 ¡Siempre aprendiendo, siempre creando!
 
 </div>
+
+## ⭐ "La tecnología es el puente entre las ideas y la innovación."
+
+**Gracias por visitar mi perfil.**
+
+🚀 ¡Siempre aprendiendo, siempre creando!
+
+</div>
