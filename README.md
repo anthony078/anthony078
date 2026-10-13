@@ -104,7 +104,7 @@ Plataforma web con probador virtual de ropa deportiva.
 </td>
 <td width="50%">
 
-### 🌐 AXIOMMOTORS Network
+### 🌐 Motorcycle dealership Network
 Diseño de red empresarial completa para una compañía ficticia: 5 VLANs departamentales + VLAN de gestión, enrutamiento inter-VLAN con Catalyst 3650, OSPF, HSRP, EtherChannel, STP, WLAN, ACLs y Port Security (sticky MAC + violation restrict).
 `Packet Tracer` `OSPF` `ACL` `Port Security`
 
